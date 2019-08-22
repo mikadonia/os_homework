@@ -1,0 +1,9 @@
+
+  125  cd ..
+  126  cd ..
+  127  ls
+  128  cd bin
+  129  head -n 3 < gcc
+  130  cd ~
+  131  cd week1
+  132  history > ex1.txt

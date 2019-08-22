@@ -1,0 +1,75 @@
+    1  iTunes
+    2  ls
+    3  cd desktop
+    4  gcc
+    5  ls
+    6  cd CL*
+    7  ls
+    8  cd untitled/
+    9  gcc
+   10  $> gcc –v
+   11  gcc –v
+   12  gcc –v untitled
+   13  ls
+   14  gcc -v main.c
+   15  $ssh -X[alisaivanova]@osc-[N].edu.innopolis.ru
+   16  $ssh -X[alisaivanova]@osc-[N].edu.innopolis.ru
+   17  $ssh -X [alisaivanova]@osc-[N].edu.innopolis.ru
+   18  ssh
+   19  ls
+   20  cd
+   21  cd
+   22  cd
+   23  ls
+   24  cd Music
+   25  ls
+   26  cd ..
+   27  ls
+   28  cd Desktop
+   29  cat > <cat.txt>
+   30  cat > cat.txt
+   31  mv cat katze
+   32  mv cat.txt katze.txt
+   33  mkdir ~/week1
+   34  cd ~/week1
+   35  cd ..
+   36  ls
+   37  cd Doc*
+   38  ls
+   39  cd ..
+   40  cd Applic*
+   41  ls
+   42  cd ..
+   43  cd Library
+   44  ls
+   45  cd Acc*
+   46  ls
+   47  cd ..
+   48  cd  ~
+   49  ~/usr/local/bin
+   50  ~/bin
+   51  defaults write com.apple.Finder AppleShowAllFiles YES
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd bin
+   58  ls
+   59  head -n 5 < ~/week1/file.txt
+   60  head -n 5
+   61  ls
+   62  head -n 5 < /bin
+   63  head -n 5
+   64  head -n 5
+   65  head -n -5 /bin
+   66  ./gcc
+   67  /gcc
+   68  head -n gcc
+   69  head -n -2 gcc
+   70  head -n 2 gcc
+   71  cd week1
+   72  ~
+   73  cd ~
+   74  cd week1
+   75  history > ex2.txt
